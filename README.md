@@ -61,6 +61,8 @@ python start.py
 ## 📸 核心界面展示
 
 *   **配置面板**：动态表单，根据测试场景自适应输入项。
+*   ![Uploading image.png…]()
+
 *   **指令中心**：支持上传 PRD 文档或截图，进行多模态需求解析。
 *   <img width="540" height="484" alt="image" src="https://github.com/user-attachments/assets/4b20a657-a396-421c-8bc5-062265a2491c" />
 
