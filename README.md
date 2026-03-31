@@ -62,6 +62,8 @@ python start.py
 
 *   **配置面板**：动态表单，根据测试场景自适应输入项。
 *   **指令中心**：支持上传 PRD 文档或截图，进行多模态需求解析。
+*   <img width="540" height="484" alt="image" src="https://github.com/user-attachments/assets/4b20a657-a396-421c-8bc5-062265a2491c" />
+
 *   **执行监控器**：极客风 Terminal 风格，带有智能清理与中止功能。
 
 ---
